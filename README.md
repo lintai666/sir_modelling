@@ -1,4 +1,4 @@
-A classical SIR model applied to Covid-19 numbers.
+# A classical SIR model applied to Covid-19 numbers.
 
 Uses differential equation modelling to predict the spread of Covid-19 in China,
 
